@@ -1,0 +1,15 @@
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+body {
+    background-color: "fcf2f0";
+}
+
+div.col  {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
